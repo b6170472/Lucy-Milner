@@ -1,0 +1,745 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.page1{
+    height: 15vh;
+    width: 100%;
+    
+}
+
+.page1 h1{
+    font-size: 50px;
+    align-items: center;
+    text-align: center;
+    margin-top: 7%;
+}
+
+
+.page2{
+   height: 100vh;
+   width: 100%;
+   display: flex;
+
+}
+
+ .LEFT {
+   height: 80%;
+   width: 50%;
+   display: flex; 
+ }
+
+ .left{
+   height: 80%;
+   width: 100%;
+   display: flex; 
+   justify-content: space-between;
+ }
+ .left1{
+   height: 80%;
+   width: 100%;
+   margin-top: 10%; 
+ }
+
+ .left1 h1{
+   margin-left: 13%;
+ }
+ .left1 li{
+   font-size: 20px;
+   list-style: none;
+   margin-left: 60px;
+   margin-top: 5%;
+
+ }
+
+ .left1 button{
+  height: 45px;
+  width: 70%;
+  margin-top: 10%;
+  margin-left: 60px;
+  background-color: rgb(113, 167, 32);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-weight: 600;
+ }
+
+.left2{
+   height: 80%;
+   width: 100%;
+   margin-top: 16%; 
+}
+
+ .left2 li{
+    font-size: 20px;
+   list-style: none;
+   margin-left: 5px;
+   margin-top: 5%;
+ }
+
+ .CENTER{
+    height: 80%;
+    width: 45%;
+    display: flex;
+ }
+
+ .center1{
+   height: 100%;
+   width: 40%;
+   }
+
+ .centre1{
+ height: 40%;
+ width: 80%;
+ border: 1px solid black;
+ margin-bottom: 10px;
+}
+.centre1 h1{
+  font-size: 37px;
+  color: greenyellow;
+}
+.centre1 p{
+   font-size: 13px;
+}
+
+
+
+.centre2{
+   height: 40%;
+   width: 80%;
+   border: 1px solid black;
+
+   }
+  .centre2 h1{
+     font-size: 37px;
+  }
+  .centre2 p{
+     font-size: 13px;
+  }
+
+  .center2{
+    height: 100%;
+    width: 40%;
+    }
+ 
+  .centre3{
+  height: 40%;
+  width: 80%;
+  border: 1px solid black;
+  margin-bottom: 10px;
+ }
+ .centre3 h1{
+   font-size: 37px;
+   color: greenyellow;
+ }
+ .centre3 p{
+    font-size: 13px;
+ }
+ 
+ .centre4{
+  height: 40%;
+  width: 80%;
+  border: 1px solid black;
+
+  }
+ .centre4 h1{
+    font-size: 37px;
+ }
+ .centre4 p{
+    font-size: 13px;
+ }
+
+ 
+
+
+
+  .ICONS{
+   height: 80%;
+   width: 10%;
+   gap: 20px;
+
+   
+  }
+
+   .icon1{
+      height: 40px;
+      width: 45px;
+     border-radius:50%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgb(236, 230, 230);
+     margin-bottom: 20px;
+    }
+    
+    .icon1 i{
+      
+   }
+
+   .icon2{
+      height: 40px;
+      width: 45px;
+     border-radius:50% ;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgb(236, 230, 230);
+     margin-bottom: 20px;
+
+   }
+
+   .icon3{
+      height: 40px;
+      width: 45px;
+     border-radius:50% ;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgb(236, 230, 230);
+     margin-bottom: 20px;
+
+   }
+
+   .icon4{
+      height: 40px;
+      width: 45px;
+     border-radius:50% ;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgb(236, 230, 230);
+     margin-bottom: 20px;
+
+   }
+   .icon5{
+      height: 40px;
+      width: 45px;
+     border-radius:50% ;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgb(236, 230, 230);
+   }
+
+
+   .page3{
+      height: 90vh;
+      width: 100%;
+      
+   }
+
+   .page3 h1{
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+   }
+
+   
+   .images1{
+      height: 45%;
+      width: 90%;
+      display: flex;
+      justify-content: space-evenly;
+   }
+   .HTML  {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .HTML h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .HTML p{
+      font-size: 25px;
+    
+   }
+
+   .JAVASCRIPT {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .JAVASCRIPT h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .JAVASCRIPT p{
+      font-size: 25px;
+    
+   }
+
+
+   .CSS {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .CSS h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .CSS p{
+      font-size: 25px;
+    
+   } 
+   
+
+
+   .PHP {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .PHP h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .PHP p{
+      font-size: 25px;
+    
+   } 
+
+
+
+
+
+   .images2{
+      height: 45%;
+      width: 90%;
+      display: flex;
+      justify-content: space-evenly;
+   }
+   .WORDPRESS  {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .WORDPRESS h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .WORDPRESS p{
+      font-size: 25px;
+    
+   }
+
+   .JQUERY {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .JQUERY h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .JQUERY p{
+      font-size: 25px;
+    
+   }
+
+
+   .ANGULAR {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .ANGULAR h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .ANGULAR p{
+      font-size: 25px;
+    
+   } 
+   
+
+
+   .REACT {
+      height: 20%;
+      width: 20%;
+      margin-left: 13%;
+      }
+   
+      .REACT h1{
+         height: 110px;
+          width: 110px;
+         border-radius:50% ;
+         background-color: rgb(51, 153, 26);
+         color: white;
+         justify-content: center; 
+         font-size: 45px;
+      }
+         
+      .REACT p{
+      font-size: 25px;
+    
+   } 
+
+   
+   
+
+   .page4{
+      height: 100vh;
+      width: 100%;
+   }
+
+ .page4 h1{
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+ }
+
+ .BELOW{
+   height: 80%;
+   width: 100%;
+   display: flex;
+
+ }
+ .Left{
+   height: 80%;
+   width: 45%;
+ }
+ .Left1{
+ height: 20%;
+ width: 80%;
+ }
+ .CLASS{
+   height: 7%;
+   width: 70%;
+ margin-left: 10%;
+ display: flex;
+ margin-top: 2px;
+ }
+ .CLASS i{
+   height: 40px;
+      width: 40px;
+     border-radius:50% ;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     background-color: rgb(104, 221, 50);
+     color: white;
+ }
+ .CLASS h1{
+   font-size: 15px;
+   
+   
+ }
+ .class{
+   height: 40%;
+   width: 100%;
+   margin-top: 7%;
+   margin-left: 5%;
+ }
+ .class h1{
+   font-size: 18px;
+   margin-left: 5%;
+   
+ }
+ .par{
+   height: 20%;
+   width: 100%;
+ }
+ .par p{
+   margin-left: 15%;
+ }
+   
+
+
+
+ .Left2{
+   height: 20%;
+   width: 80%;
+   margin-top: 20%;
+   }
+   .CLASS1 {
+     height: 7%;
+     width: 70%;
+   margin-left: 15%;
+   display: flex;
+   margin-top: 2%;
+   }
+   .CLASS1 i{
+     height: 40px;
+        width: 40px;
+       border-radius:50% ;
+       justify-content: center;
+       align-items: center;
+       display: flex;
+       background-color: rgb(104, 221, 50);
+       color: white;
+   }
+   .CLASS1 h1{
+     font-size: 15px;
+   }
+   .class1{
+     height: 40%;
+     width: 100%;
+     margin-top: 7%;
+     margin-left: 5%;
+   }
+   .class1 h1{
+     font-size: 18px;
+     margin-left: 5%;
+     
+   }
+   .par1{
+     height: 20%;
+     width: 100%;
+   }
+   .par1 p{
+     margin-left: 15%;
+   }
+     
+
+
+   .Left3{
+      height: 20%;
+      width: 80%;
+      margin-top: 20%;
+      }
+      .CLASS2 {
+        height: 7%;
+        width: 70%;
+      margin-left: 15%;
+      display: flex;
+      margin-top: 2%;
+      }
+      .CLASS2 i{
+        height: 40px;
+           width: 40px;
+          border-radius:50% ;
+          justify-content: center;
+          align-items: center;
+          display: flex;
+          background-color: rgb(104, 221, 50);
+          color: white;
+      }
+      .CLASS2 h1{
+        font-size: 15px;
+      }
+      .class2{
+        height: 40%;
+        width: 100%;
+        margin-top: 7%;
+        margin-left: 5%;
+      }
+      .class2 h1{
+        font-size: 18px;
+        margin-left: 5%;
+        
+      }
+      .par2{
+        height: 20%;
+        width: 100%;
+      }
+      .par2 p{
+        margin-left: 15%;
+      }
+        
+   
+.RIGHT{
+   height: 80%;
+   width: 50%;
+   
+}
+
+
+.Right{
+   height: 80%;
+   width: 45%;
+ }
+ .Right1{
+ height: 20%;
+ width: 80%;
+ }
+ .CLASS4{
+   height: 7%;
+   width: 70%;
+ margin-left: 15%;
+ display: flex;
+ margin-top: 2px;
+ }
+ .CLASS4 i{
+   height: 40px;
+      width: 40px;
+     border-radius:50% ;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     background-color: rgb(104, 221, 50);
+     color: white;
+ }
+ .CLASS4 h1{
+   font-size: 15px;
+ }
+ .class4{
+   height: 40%;
+   width: 100%;
+   margin-top: 7%;
+   margin-left: 5%;
+ }
+ .class4 h1{
+   font-size: 18px;
+   margin-left: 5%;
+   
+ }
+ .par4{
+   height: 20%;
+   width: 100%;
+ }
+ .par4 p{
+   margin-left: 15%;
+ }
+   
+
+
+
+ .Right2{
+   height: 20%;
+   width: 80%;
+   margin-top: 20%;
+   }
+   .CLASS5 {
+     height: 7%;
+     width: 70%;
+   margin-left: 15%;
+   display: flex;
+   margin-top: 2%;
+   }
+   .CLASS5 i{
+     height: 40px;
+        width: 40px;
+       border-radius:50% ;
+       justify-content: center;
+       align-items: center;
+       display: flex;
+       background-color: rgb(104, 221, 50);
+       color: white;
+   }
+   .CLASS5 h1{
+     font-size: 15px;
+   }
+   .class5{
+     height: 40%;
+     width: 100%;
+     margin-top: 7%;
+     margin-left: 5%;
+   }
+   .class5 h1{
+     font-size: 18px;
+     margin-left: 5%;
+     
+   }
+   .par5{
+     height: 20%;
+     width: 100%;
+   }
+   .par5 p{
+     margin-left: 15%;
+   }
+     
+
+
+   .Right3{
+      height: 20%;
+      width: 80%;
+      margin-top: 20%;
+      }
+      .CLASS6 {
+        height: 7%;
+        width: 70%;
+      margin-left: 15%;
+      display: flex;
+      margin-top: 2%;
+      }
+      .CLASS6 i{
+        height: 40px;
+           width: 40px;
+          border-radius:50% ;
+          justify-content: center;
+          align-items: center;
+          display: flex;
+          background-color: rgb(104, 221, 50);
+          color: white;
+      }
+      .CLASS6 h1{
+        font-size: 15px;
+      }
+      .class6{
+        height: 40%;
+        width: 100%;
+        margin-top: 7%;
+        margin-left: 5%;
+      }
+      .class6 h1{
+        font-size: 18px;
+        margin-left: 5%;
+        
+      }
+      .par6{
+        height: 20%;
+        width: 100%;
+      }
+      .par6 p{
+        margin-left: 17%;
+      }
+        
+   
+
+
+
+
+
+ 

@@ -1,0 +1,296 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+
+.page5{
+    height: 100%;
+    width: 100%;
+}
+
+
+.HEAD1{
+    height: 10%;
+    width: 100%;
+}
+
+.HEAD1 h1{
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.BLOG{
+    height: 90%;
+    width: 100%;
+    
+}
+
+.BLOGup{
+ height: 27%;
+  width: 95%;
+  display: flex;
+  
+}
+
+.blog1{
+    height: 97%;
+    width: 30%;
+    margin-left: 6%;
+
+}
+
+.blog1 img{
+    height: 100%;
+    width: 100%;
+    border-radius: 0 5px 5px 0;
+    border-bottom:  9px solid greenyellow;
+}
+
+.blog1 h1{
+    font-size:23px;
+    margin-left: 9%;
+    
+}
+
+.blog1 p{
+    margin-left: 9%;
+}
+
+
+.blog2{
+    height: 97%;
+    width: 30%;
+    margin-left: 6%;
+
+}
+
+.blog2 img{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px 0 5px  0;
+    border-bottom:  9px solid greenyellow;
+}
+
+
+.blog2 h1{
+    font-size: 25px;
+    margin-left: 10%;
+}
+
+.blog2 p{
+    margin-left: 10%;
+}
+
+
+.blog3{
+    height: 97%;
+    width: 30%;
+    margin-left: 6%;
+
+}
+
+.blog3 img{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px 0 5px  0;
+    border-bottom:  9px solid greenyellow;
+}
+
+.blog3 h1{
+    font-size: 23px;
+    margin-left: 10%;
+}
+
+.blog3 p{
+    margin-left: 10%;
+}
+
+
+
+
+
+
+.BLOGmiddle{
+    height: 27%;
+     width: 95%;
+     display: flex;
+     
+   }
+   
+   .blog4{
+       height: 97%;
+       width: 30%;
+       margin-left: 6%;
+   
+   }
+   
+   .blog4 img{
+       height: 100%;
+       width: 100%;
+       border-radius: 0 5px 5px 0;
+       border-bottom:  9px solid greenyellow;
+   }
+   
+   .blog4 h1{
+       font-size:23px;
+       margin-left: 9%;
+       
+   }
+   
+   .blog4 p{
+       margin-left: 9%;
+   }
+   
+   
+   .blog5{
+       height: 97%;
+       width: 30%;
+       margin-left: 6%;
+   
+   }
+   
+   .blog5 img{
+       height: 100%;
+       width: 100%;
+       border-radius: 5px 0 5px  0;
+       border-bottom:  9px solid greenyellow;
+   }
+   
+   
+   .blog5 h1{
+       font-size: 25px;
+       margin-left: 10%;
+   }
+   
+   .blog5 p{
+       margin-left: 10%;
+   }
+   
+   
+   .blog6{
+       height: 97%;
+       width: 30%;
+       margin-left: 6%;
+   
+   }
+   
+   .blog6 img{
+       height: 100%;
+       width: 100%;
+       border-radius: 5px 0 5px  0;
+       border-bottom:  9px solid greenyellow;
+   }
+   
+   .blog6 h1{
+       font-size: 23px;
+       margin-left: 10%;
+   }
+   
+   .blog6 p{
+       margin-left: 10%;
+   }
+
+
+   
+
+
+    
+
+
+   .numbers{
+    height: 10%;
+    width: 100%;
+    display: flex;
+   margin-left: 39%;
+   margin-top: 5%;
+   
+   /* position: relative; */
+   
+    
+ 
+    
+   }
+ 
+    .number1{
+       height: 40px;
+       width: 45px;
+      border-radius:50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgb(236, 230, 230);
+      margin-bottom: 20px;
+     }
+     
+     .number1:hover{
+        background-color:rgb(67, 148, 30) ;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+    }
+     
+ 
+    .number2{
+       height: 40px;
+       width: 45px;
+      border-radius:50% ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgb(236, 230, 230);
+      margin-bottom: 20px;
+ 
+    }
+
+    .number2:hover{
+        background-color:rgb(67, 148, 30) ;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+    }
+ 
+    .number3{
+       height: 40px;
+       width: 45px;
+      border-radius:50% ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgb(236, 230, 230);
+      margin-bottom: 20px;
+ 
+    }
+      
+    .number3:hover{
+        background-color:rgb(67, 148, 30) ;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+    }
+     
+    .number4{
+       height: 40px;
+       width: 45px;
+      border-radius:50% ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgb(236, 230, 230);
+      margin-bottom: 20px;
+ 
+    }
+
+    .number4:hover{
+        background-color:rgb(67, 148, 30) ;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    
+
+
+    
